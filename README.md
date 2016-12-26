@@ -10,7 +10,7 @@ Includes:
 
 2- Support Vector Machine
 
-3- multi-Layer Neaural Network
+3- Multi-Layer Neaural Network
 
 4- Ensemble Classifiers (Bagging, Boosting)
 
