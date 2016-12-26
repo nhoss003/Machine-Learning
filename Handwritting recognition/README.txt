@@ -2,6 +2,11 @@ Handwritting recognition
 ===============================================================================
 
 
+- Applied Machine Learning algorithms to recognize handwritten English alphabets.
+- Built a new approach to improve accuracy and performance.
+
+==============================================================================
+
 There are the following files for my project:	
 								
 1- project.m                                                                    
