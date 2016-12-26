@@ -2,6 +2,12 @@ Handwritting recognition
 ===============================================================================
 
 
+- Applied Machine Learning algorithms to recognize handwritten English alphabets.
+- Built a new approach to improve accuracy and performance.
+
+
+================================================
+
 There are the following files for my project:	
 								
 1- project.m                                                                    
@@ -18,7 +24,7 @@ There are the following files for my project:
 project.m : When you run project.m it asks you for test filename. 
             You have to enter test filename and it displays the classified label by using nearest neighbor classification method.
             So you can compare these labels with your true labels.
-			Since in nearest neighbor method we don't have a training phase and test phase I couldn't save the trained model.
+			
 			
 Example for project.m:
 
@@ -35,4 +41,6 @@ Initial_Approach_CVE.m :  This file is same as the previous one except it user K
 Initial_Approach_trainSize.m : This file keeps track of train and test error as train set size increases.
 
 Final_Approach.m : This file calculates error by K fold cross validation method after applying PCA on original data.
+
+
 nn.m : Using neaural network
