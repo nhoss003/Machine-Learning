@@ -34,11 +34,12 @@ project.m : When you run project.m it asks you for test filename.
 Example for project.m:
 
 Please enter file name: test.data
+
 Then it displays predicted class labels.
 
 
 Initial_Approach.m : This file is based on handwriting.data file. It considers first 30000 rows as train set and the rest for test set.
-                     It runs nearest neighbor classifier on the train and test set or different number of neighbors and calculates test and train error.
+                     It runs nearest neighbor classifier on the train and test set for different number of neighbors and calculates test and train error.
 
 Initial_Approach_CVE.m :  This file is same as the previous one except it user K fold cross validation error for computing error 
                           instead of cosidering first 30000 as train set and the rest for test set. 
