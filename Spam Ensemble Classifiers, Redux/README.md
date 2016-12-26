@@ -6,7 +6,7 @@ Trained bagging and boosting on the spam data set. For each of bagging and boost
 part a: Bagging
 
 
-Here is the plot of testing error versus number of trees.for bagging, bagging reweighted, boosting, and boosting reweighted.
+Here is the plot of testing error versus number of trees, for bagging, bagging reweighted, boosting, and boosting reweighted.
 
-![Alt text](/Ensemble Classifiers/ps7img.PNG?raw=true "Search box")
+![Alt text](/Spam Ensemble Classifiers, Redux/ps7img.PNG?raw=true "Search box")
 
