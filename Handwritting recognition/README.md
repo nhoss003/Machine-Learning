@@ -1,5 +1,7 @@
 Handwritting recognition
 ===============================================================================
+
+
 There are the following files for my project:	
 								
 1- project.m                                                                    
@@ -8,6 +10,8 @@ There are the following files for my project:
 4- Initial_Approach_trainSize.m
 5- Final_Approach.m
 6- nn.m
+
+
 ================================================================================
 
 
