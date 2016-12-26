@@ -4,11 +4,11 @@ This problem explores the proximity of points in high dimensional spaces.
 
 Code files
 =================================
-parta.m
-randomPartA.m
-partc.m
-randomPartC.m
-averageDist.m
+1- parta.m
+2- randomPartA.m
+3- partc.m
+4- randomPartC.m
+5- averageDist.m
 =================================
 Here is the results:
 
