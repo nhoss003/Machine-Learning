@@ -6,7 +6,7 @@ Trained a neural network on the “class2d” dataset.
 
 Here are the results:
 
-![Alt text](/Multi-Layer Neural Network/1.PNG?raw=true "Results page")
+![Alt text](/Multi-Layer Neural Network/1?raw=true "Results page")
 ![Alt text](/Multi-Layer Neural Network/figure2.eps?raw=true "Results page")
 ![Alt text](/Multi-Layer Neural Network/figure3.eps?raw=true "Results page")
 ![Alt text](/Multi-Layer Neural Network/figure4.eps?raw=true "Results page")
