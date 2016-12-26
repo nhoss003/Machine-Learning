@@ -1,0 +1,26 @@
+
+Part B:
+
+ My results show that, for the same number of points, as the dimensionality increases, the average distance between points also increases
+and points become more further away from each other.
+Also, my results show that for the same dimension, as we increase the number of points(sample size), the average distance between points decreases.
+The above interpretation is in compliance with equation 2.24 in the book.
+We care about average distance to another point because otherwise we will have some noise and our result won't be accurate,
+so we have to take into consideration the whole data, because at some areas, the points may be closer to each other while at some other areas they may be far away
+from each other, so we have to take average. It is more important to take average in higher dimentional spaces, because of the curse of dimensionality.
+In order to cover 10 percent of volumn in a 2 dimentional space, we have to cover 30 percent of the range of each input variable,
+while in a higher dimentional space like a 10 dimension, in order to capture the same amoount we have to cover 80 percent of the range of each coordinate.
+And all sample points are close to an edge of the sample.
+Even if we consider that points are uniformly distributed, according to equation 2.24, distance from the origin to the closest data point,
+increses as the dimension increases, so taking average is very important to have a more accurate result.
+===============================================================================================================
+ part D:
+ 
+ In Part C , instead of using the identity matrix as the covariance matrix,
+we used a matrix in which the diagonal elements are 1, but the off-diagonal elements are 0.8 which indicates a correlation between the dimensions.
+Meaning that the ith and jth dimensions are corelated. And as it is depicted in figure,when the data points are corelated, 
+the average distance between points is smaller, because the points are distributed in a linear combination of the dimensions.
+And each axis has impact on the other one, so they are closer to each other compared to
+the Identity matrix as a covariance matrix, where the diagonal values are 1, indicating that the data have variance of 1 along both of the dimensions, 
+and the off-diagonal elements are zero, meaning that the two dimensions are uncorrelated.
+Thus an identity covariance matrix is equivalent to having independent dimensions, so the average distance between points is larger.
